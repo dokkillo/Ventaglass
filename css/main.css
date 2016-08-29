@@ -73,7 +73,10 @@ body {
     border-bottom: 20px solid #000000;
 }
 
-.footer-container,
+.footer-container{
+    border-top: 20px solid #000000;
+}
+
 .main aside {
     border-top: 20px solid #999999;
 }
@@ -86,14 +89,21 @@ body {
 
 .title {
     color: white;
+    text-align: center;
 }
+
+.Subtitle {
+    color: white;
+    text-align: center;
+}
+
 
 /* ==============
     MOBILE: Menu
    ============== */
 
 nav ul {
-    margin: 0;
+    margin-top: 40px;
     padding: 0;
     list-style-type: none;
 }
@@ -135,6 +145,7 @@ nav a:hover {
 .main aside {
     color: white;
     padding: 0px 5% 10px;
+    margin-bottom: 15px;
 }
 
 .footer-container footer {
@@ -155,16 +166,7 @@ nav a:hover {
    ========================================================================== */
 
 
-
-
-
-
-
-
-
-
-
-
+.clear { clear: both; }
 
 
 
@@ -228,9 +230,14 @@ nav a:hover {
         float: left;
     }
 
+    .Subtitle
+    {
+        float:left;
+    }
+
     nav {
         float: right;
-        width: 38%;
+        width: 38%;       
     }
 
 /* ============
