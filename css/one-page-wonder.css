@@ -189,6 +189,13 @@ footer {
         margin: 10px 0;
     }
 
+   .headline h1 {
+        font-size: 32px;
+    }
+
+    .headline h2 {
+        font-size: 24px;
+    }
     .featurette-image {
         max-width: 100%;
     }
