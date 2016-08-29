@@ -76,13 +76,18 @@ footer {
 }
 
  .nav.navbar-nav li a:hover {
-    color: red;
+    color: black;
      font-weight: bold;
 
 }
 
 .navbar-default .navbar-brand {
     color: white;
+     font-weight: bold;
+}
+
+.navbar-default .navbar-brand:hover {
+    color: black;
      font-weight: bold;
 }
 
