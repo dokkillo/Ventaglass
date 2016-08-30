@@ -186,6 +186,15 @@ footer {
 }
 
 @media(max-width:375px) {
+      .headline h1 {
+        font-size: 32px;
+    }
+
+    .headline h2 {
+        font-size: 24px;
+    }
+    
+    
     .featurette-divider {
         margin: 10px 0;
     }
