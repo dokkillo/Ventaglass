@@ -94,9 +94,9 @@
 
         <div class="my-slider">
 	        <ul>
-		        <li>My slide</li>
-		        <li>Another slide</li>
-		        <li>My last slide</li>
+		        <li><img src="css/img/balconera-antigua.jpg" alt="La balconera antigua esta foto fue tomada antes de empezar la obra" ></li>
+		        <li><img src="css/img/balconera-nueva-pvc.jpg" alt="Esta es la nueva balconera de pvc un trabajo espectacular"></li>
+		        <li><img src="css/img/balconera-nueva.jpg" alt="Las ventanas en este caso son bicolor interior blanco exterior imitacion de roble"></li>
 	        </ul>
     </div>
 
@@ -140,6 +140,16 @@
 
     <!-- Bootstrap Core JavaScript -->
     <script src="js/unslider-min.js"></script>
+
+    <script>
+		jQuery(document).ready(function($) {
+			$('.my-slider').unslider({
+									animation: 'fade',
+									autoplay: true,
+									arrows: false
+								});
+		});
+	</script>
 
 </body>
 
