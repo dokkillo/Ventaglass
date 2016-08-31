@@ -21,7 +21,7 @@ footer{
     display: block;
     width: 100%;
     text-align: center;
-    background: url("img/intro.jpg") no-repeat center center scroll;
+    background: url("img/ventana-aluminio.jpg") no-repeat center center scroll;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
@@ -89,6 +89,10 @@ footer{
 .navbar-default .navbar-brand:hover {
     color: black;
      font-weight: bold;
+}
+
+p{
+    color:black;
 }
 
 @media(max-width:1200px) {
