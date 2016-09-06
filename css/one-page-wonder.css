@@ -22,7 +22,7 @@ footer{
     width: 100%;
 	height:100%;
     text-align: center;
-    background: url("img/ventana-aluminio.jpg") no-repeat center center scroll;
+    background: url("img/terraza.jpg") no-repeat center center scroll;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
@@ -33,7 +33,7 @@ footer{
     display: block;
     width: 100%;
     text-align: center;
-    background: url("img/ventana-techo.jpg") no-repeat center center scroll;
+    background: url("img/terraza-sofa.jpg") no-repeat center center scroll;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
@@ -44,7 +44,7 @@ footer{
     display: block;
     width: 100%;
     text-align: center;
-    background: url("img/puerta-terraza.jpg") no-repeat center center scroll;
+    background: url("img/ventana-techo.jpg") no-repeat center center scroll;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
@@ -55,7 +55,7 @@ footer{
     display: block;
     width: 100%;
     text-align: center;
-    background: url("img/terraza.jpg") no-repeat center center scroll;
+    background: url("img/puerta-terraza.jpg") no-repeat center center scroll;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
